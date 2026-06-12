@@ -4,4 +4,4 @@ Built using Go and Typescript
 
 ##### Tech Stack Breakdown:
 Vite + React
-Go + Air + Fiber + Valkey
+Go + Air + Fiber + ValKey + Docker
